@@ -2,7 +2,7 @@
 
 ---
 
-# José Thomás 
+# José Thomás #
 
 Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas, interessado em linguagens como Python e java. Gosto de estudar sobre desenvolvimento, ciência de dados e cloud computing.
 
