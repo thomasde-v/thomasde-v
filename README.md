@@ -34,6 +34,8 @@ Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas, 
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
+[![Repo projeto_controle_de_residuos](https://github-readme-stats.vercel.app/api/pin/?username=thomasde-v&repo=projeto_controle_de_residuos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thomasde-v/projeto_controle_de_residuos)
+
 ## Contribuiçoes GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thomasde-v&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
